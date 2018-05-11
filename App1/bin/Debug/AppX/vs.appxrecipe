@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-9HJN19QS</Machine>
+    <WindowsUser>om03o</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ee1c1f7b-958f-4e72-afda-9507d0299306</PackageIdentityName>
+    <PackageIdentityPublisher>CN=om03o</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\om03o\source\repos\App1\App1\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\om03o\source\repos\App1\App1\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>A0AE9450998231659F02F5A63B93DC5EE4D9D8B7392BF162A08BE5B64FF45F4B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ee1c1f7b-958f-4e72-afda-9507d0299306_1.0.0.0_neutral__hgg4x7fnagsz0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ee1c1f7b-958f-4e72-afda-9507d0299306_hgg4x7fnagsz0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ee1c1f7b-958f-4e72-afda-9507d0299306</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=om03o</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\om03o\source\repos\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-26T22:34:25.053</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-04-26T23:42:34.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-04-17T00:02:57.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-17T00:02:57.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-17T00:02:57.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-17T00:02:57.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-17T00:02:57.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-17T00:02:57.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-17T00:02:57.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-04-26T23:45:05.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\prom.js">
+      <PackagePath>prom.js</PackagePath>
+      <Modified>2018-04-26T18:06:49.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\script.js">
+      <PackagePath>script.js</PackagePath>
+      <Modified>2018-04-26T18:01:03.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\Scripts\jquery-3.3.1.intellisense.js">
+      <PackagePath>Scripts\jquery-3.3.1.intellisense.js</PackagePath>
+      <Modified>2018-01-22T11:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\Scripts\jquery-3.3.1.js">
+      <PackagePath>Scripts\jquery-3.3.1.js</PackagePath>
+      <Modified>2018-04-26T00:03:53.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\Scripts\jquery-3.3.1.min.js">
+      <PackagePath>Scripts\jquery-3.3.1.min.js</PackagePath>
+      <Modified>2018-04-26T00:03:53.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\Scripts\jquery-3.3.1.slim.js">
+      <PackagePath>Scripts\jquery-3.3.1.slim.js</PackagePath>
+      <Modified>2018-04-26T00:03:52.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\Scripts\jquery-3.3.1.slim.min.js">
+      <PackagePath>Scripts\jquery-3.3.1.slim.min.js</PackagePath>
+      <Modified>2018-04-26T00:03:52.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-04-17T22:03:13.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2018-04-26T10:12:25.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\Scripts\jquery-3.3.1.min.map">
+      <PackagePath>Scripts\jquery-3.3.1.min.map</PackagePath>
+      <Modified>2018-04-26T00:03:53.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\Scripts\jquery-3.3.1.slim.min.map">
+      <PackagePath>Scripts\jquery-3.3.1.slim.min.map</PackagePath>
+      <Modified>2018-04-26T00:03:52.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\om03o\source\repos\App1\App1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-26T22:34:24.913</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
